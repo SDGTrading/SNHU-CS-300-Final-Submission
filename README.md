@@ -1,2 +1,3 @@
 # SNHU-CS-300-Final-Submission
-Repository will contain various projects from CS 300
+
+The projects in this course were focused on different types of data structures. This course gave me experience with Vector Sorting, Linked Lists, and Hash Tables. It is important to understand different types of data structures in order to be able to implement the best possible option when needed. This course was my first time doing a runtime analysis which aided me in understanding the difference when running different data structures. Working on the projects in this course has allowed me to implement new types of data structures into other projects and have them run more efficiently. Understanding data structures has helped me create more maintainable and adaptable code as I can update the data structures when needed.
